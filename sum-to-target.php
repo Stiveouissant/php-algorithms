@@ -45,15 +45,10 @@
 <html lang="en-GB">
 <head>
     <meta charset="utf-8">
-    <title>Contains Duplicate</title>
+    <title>Sum to target</title>
     <meta name="description" content="solving php algorithmic problems in PHP">
     <meta name="keywords" content="php, algorithms, solving">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <!-- <link rel="stylesheet" href="main.css">
-	
-	<script src="jquery.js"></script>
-	<script src="scripts.js"></script> -->
 	
 </head>
 
@@ -61,7 +56,7 @@
     <div class="container">
 
         <header>
-            <h1>Contains Duplicate</h1>
+            <h1>Sum to target</h1>
         </header>
 		
         <div class="nav">

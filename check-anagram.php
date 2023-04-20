@@ -44,11 +44,6 @@
     <meta name="description" content="solving php algorithmic problems in PHP">
     <meta name="keywords" content="php, algorithms, solving">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <!-- <link rel="stylesheet" href="main.css">
-	
-	<script src="jquery.js"></script>
-	<script src="scripts.js"></script> -->
 	
 </head>
 
