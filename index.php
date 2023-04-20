@@ -25,6 +25,7 @@
             <ol>
                 <li><a href="contains-duplicate.php">Check if an integer array contains duplicates</a></li>
                 <li><a href="check-anagram.php">Check if two different strings are an anagram</a></li>
+                <li><a href="sum-to-target.php">Return two indexes of numbers in a table that sum up to the given target number</a></li>
             </ol>  
         </div>
 
