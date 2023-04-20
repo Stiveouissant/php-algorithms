@@ -69,7 +69,7 @@
 
             You can return the answer in any order.</p>
 
-        <p>Data:</p> <?php ?>
+        <p>Data:</p>
 
         <?php 
             displayData($dataset);

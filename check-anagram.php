@@ -60,7 +60,7 @@
 
         <p>Given two strings <code>s</code> and <code>t</code>, return <code>true</code> <em>if</em> <code>t</code> <em>is an anagram of</em> <code>s</code><em>, and</em> <code>false</code> <em>otherwise</em>.</p>
 
-        <p>Data:</p> <?php ?>
+        <p>Data:</p>
 
         <?php 
             displayData($dataset);

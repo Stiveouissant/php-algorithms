@@ -1,32 +1,22 @@
 <?php
-    $data1 = [1,2,3,1];
-    $data2 = [1,2,3,4];
-    $data3 = [1,1,1,3,3,4,3,2,4,2];
+    $data1 = ["eat","tea","tan","ate","nat","bat"];
+
+    $data2 = [""];
+
+    $data3 = ["a"];
 
     $dataset = [$data1, $data2, $data3];
 
-    // OLD SOLUTION - HAS WORSE PERFORMANCE
-    // function containsDuplicate($nums) {
-    //     $count = array_count_values($nums);
-
-    //     foreach($nums as $num){
-    //         if($count[$num] > 1){
-    //             return true;
-    //         }
-    //     }
-    //     return false;
-    // }
-
-    function containsDuplicate($nums) {
-        $savedValues = [];
-
-        foreach($nums as $val)
+    function groupAnagrams($strs) {
+        $output = [];
+        foreach($strs as $key => $val)
         {
-            if(isset($savedValues[$val]))
-                return true;
-            $savedValues[$val] = true;
+            $s = str_split($strs[$key]);
+            sort($s);
+            $s = implode('', $s);
+            $output[$s][] = $strs[$key];
         }
-        return false;
+        return $output;
     }
 
     function displayData($data)
@@ -43,7 +33,7 @@
 <html lang="en-GB">
 <head>
     <meta charset="utf-8">
-    <title>Contains Duplicate</title>
+    <title>Group anagrams</title>
     <meta name="description" content="solving php algorithmic problems in PHP">
     <meta name="keywords" content="php, algorithms, solving">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -54,14 +44,14 @@
     <div class="container">
 
         <header>
-            <h1>Contains Duplicate</h1>
+            <h1>Group anagrams</h1>
         </header>
 		
         <div class="nav">
             <a href="index.php"><p> Back to the list</p></a>
         </div>
 
-        <p>Given an integer array <code>nums</code>, return <code>true</code> if any value appears <strong>at least twice</strong> in the array, and return <code>false</code> if every element is distinct.</p>
+        <p>Given an array of strings <code>strs</code>, group <strong>the anagrams</strong> together. You can return the answer in <strong>any order</strong>.</p>
 
         <p>Data:</p>
 
@@ -75,10 +65,9 @@
 
         <?php 
             $start_time = microtime(true);
-            foreach($dataset as $key => $data)
-            {
+            foreach ($dataset as $key => $val) {
                 echo "Answer ".($key+1).":<br>";
-                var_dump(containsDuplicate($data));
+                var_dump(groupAnagrams($val));
                 echo "<br>";
             }
             $execution_time = (microtime(true) - $start_time) * 1000;
