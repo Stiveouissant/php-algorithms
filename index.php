@@ -22,6 +22,7 @@
                 <li><a href="check-anagram.php">Check if two different strings are an anagram</a></li>
                 <li><a href="sum-to-target.php">Return two indexes of numbers in a table that sum up to the given target number</a></li>
                 <li><a href="group-anagrams.php">Groups given anagrams into separate arrays</a></li>
+                <li><a href="k-most-frequent.php">List top "K" frequent elements in an array of ints</a></li>
             </ol>  
         </div>
 
