@@ -23,7 +23,8 @@
                 <li><a href="sum-to-target.php">Return two indexes of numbers in a table that sum up to the given target number</a></li>
                 <li><a href="group-anagrams.php">Groups given anagrams into separate arrays</a></li>
                 <li><a href="k-most-frequent.php">List top "K" frequent elements in an array of ints</a></li>
-            </ol>  
+                <li><a href="product-of-array-except-self.php">Return a number array where every element is a product of every other element in the array</a></li>
+            </ol>
         </div>
 
     </div>
