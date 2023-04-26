@@ -24,6 +24,7 @@
                 <li><a href="group-anagrams.php">Groups given anagrams into separate arrays</a></li>
                 <li><a href="k-most-frequent.php">List top "K" frequent elements in an array of ints</a></li>
                 <li><a href="product-of-array-except-self.php">Return a number array where every element is a product of every other element in the array</a></li>
+                <li><a href="valid-sudoku.php">Check if the given Sudoku is valid</a></li>
             </ol>
         </div>
 
