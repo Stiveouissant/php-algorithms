@@ -26,6 +26,7 @@
                 <li><a href="product-of-array-except-self.php">Return a number array where every element is a product of every other element in the array</a></li>
                 <li><a href="valid-sudoku.php">Check if the given Sudoku is valid</a></li>
                 <li><a href="codec-strings.php">Encode a list of strings and then decode them to the original form</a></li>
+                <li><a href="longest-consecutive-sequence.php">How many numbers in an unsorted array are a consecutive sequence</a></li>
             </ol>
         </div>
 
