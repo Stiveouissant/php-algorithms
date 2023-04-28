@@ -31,7 +31,8 @@
             </ol>
             <p>Two pointers</p>
             <ol>
-            <li><a href="valid-palindrome.php">Check if a string is a palindrome</a></li>
+                <li><a href="valid-palindrome.php">Check if a string is a palindrome</a></li>
+                <li><a href="two-sum-indexes-sorted.php">Return two indexes of the sorted array that add up to the given target</a></li>
             </ol>
         </div>
 
