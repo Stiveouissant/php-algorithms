@@ -17,6 +17,7 @@
         </header>
 		
         <div class="nav">
+            <p>Arrays and Hashmaps</p>
             <ol>
                 <li><a href="contains-duplicate.php">Check if an integer array contains duplicates</a></li>
                 <li><a href="check-anagram.php">Check if two different strings are an anagram</a></li>
@@ -27,6 +28,10 @@
                 <li><a href="valid-sudoku.php">Check if the given Sudoku is valid</a></li>
                 <li><a href="codec-strings.php">Encode a list of strings and then decode them to the original form</a></li>
                 <li><a href="longest-consecutive-sequence.php">How many numbers in an unsorted array are a consecutive sequence</a></li>
+            </ol>
+            <p>Two pointers</p>
+            <ol>
+            <li><a href="valid-palindrome.php">Check if a string is a palindrome</a></li>
             </ol>
         </div>
 
