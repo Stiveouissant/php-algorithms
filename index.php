@@ -34,6 +34,7 @@
                 <li><a href="valid-palindrome.php">Check if a string is a palindrome</a></li>
                 <li><a href="two-sum-indexes-sorted.php">Return two indexes of the sorted array that add up to the given target</a></li>
                 <li><a href="three-sum.php">Return the sets of non duplicate triplet int values that sum up to 0</a></li>
+                <li><a href="container-with-most-water.php">Having an array of ints find the container with most water</a></li>
             </ol>
         </div>
 
