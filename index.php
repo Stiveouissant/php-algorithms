@@ -37,6 +37,10 @@
                 <li><a href="container-with-most-water.php">Having an array of ints find the container with most water</a></li>
                 <li><a href="trapping-water.php">Having an array of ints find the amount of trapped water</a></li>
             </ol>
+            <p>Sliding window</p>
+            <ol>
+                <li><a href="best-time-to-buy-stock.php">Check the best time to sell stock in a week</a></li>
+            </ol>
         </div>
 
     </div>
