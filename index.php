@@ -41,6 +41,7 @@
             <ol>
                 <li><a href="best-time-to-buy-stock.php">Check the best time to sell stock in a week</a></li>
                 <li><a href="longest-substr-no-rep.php">Given a string check the longest sequence of characters without repetition</a></li>
+                <li><a href="longest-same-character-replacement.php">Given a string and an amount of replacable character return the length of the most repeatable character</a></li>
             </ol>
         </div>
 
