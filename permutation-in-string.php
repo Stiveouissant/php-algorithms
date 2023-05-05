@@ -23,7 +23,7 @@
             $s1Hash[$alphabet[$s1[$key]]]++;
         }
 
-        //if letter count in the hashmaps is the same s1 can be included
+        //if letter count in the hashmap window is the same s1 can be included
         for ($i = 0; $i < $s2L; $i++) {
             $s2Hash[$alphabet[$s2[$i]]]++;
 
