@@ -43,6 +43,7 @@
                 <li><a href="longest-substr-no-rep.php">Given a string check the longest sequence of characters without repetition</a></li>
                 <li><a href="longest-same-character-replacement.php">Given a string and an amount of replacable character return the length of the most repeatable character</a></li>
                 <li><a href="permutation-in-string.php">Return true if other string contains a permutation of the given string</a></li>
+                <li><a href="minimum-window-substring.php">Check if a given string is contained by any substring of another string</a></li>
                 <li><a href="sliding-window-maximum.php">Return a max value from a window sliding through the whole array</a></li>
             </ol>
         </div>
