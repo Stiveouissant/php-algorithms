@@ -46,6 +46,10 @@
                 <li><a href="minimum-window-substring.php">Check if a given string is contained by any substring of another string</a></li>
                 <li><a href="sliding-window-maximum.php">Return a max value from a window sliding through the whole array</a></li>
             </ol>
+            <p>Stack</p>
+            <ol>
+                <li><a href="valid-parentheses.php">Check if the parentheses are correctly closed</a></li>
+            </ol>
         </div>
 
     </div>
