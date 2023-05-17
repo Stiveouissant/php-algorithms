@@ -51,6 +51,11 @@
                 <li><a href="valid-parentheses.php">Check if the parentheses are correctly closed</a></li>
                 <li><a href="evaluate-rev-polish-notation.php">Evaluate arithmetic sentence given in Reverse Polish Notation</a></li>
             </ol>
+            <p>Binary search</p>
+            <ol>
+                <li><a href="binary-search.php">Simple binary search</a></li>
+                
+            </ol>
         </div>
 
     </div>
