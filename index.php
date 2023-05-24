@@ -51,6 +51,7 @@
                 <li><a href="valid-parentheses.php">Check if the parentheses are correctly closed</a></li>
                 <li><a href="evaluate-rev-polish-notation.php">Evaluate arithmetic sentence given in Reverse Polish Notation</a></li>
                 <li><a href="daily-temperatures.php">Count how many days left until hotter day</a></li>
+                <li><a href="car-fleet.php">Count the number of car fleets</a></li>
             </ol>
             <p>Binary search</p>
             <ol>
