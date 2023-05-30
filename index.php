@@ -56,6 +56,7 @@
             <p>Binary search</p>
             <ol>
                 <li><a href="binary-search.php">Simple binary search</a></li>
+                <li><a href="search-2D-matrix.php">Search 2D matrix with binary search</a></li>
                 
             </ol>
         </div>
